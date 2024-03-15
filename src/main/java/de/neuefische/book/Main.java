@@ -1,6 +1,6 @@
-package de.neuefische;
+package de.neuefische.book;
 
-import java.util.Arrays;
+import de.neuefische.book.Book;
 
 public class Main {
 
